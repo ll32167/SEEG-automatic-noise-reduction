@@ -1,6 +1,6 @@
 # Seizure-detetction
 
-This document is the supporting material for the paper in the 2020 IEEE BIBM (coming soon) and 2020 SCASB (https://www.unthsc.edu/research/wp-content/uploads/sites/21/LinLi-2020-South-Central-ASB-Meeting-Abstract.pdf).
+This document is the supporting material for the paper in the 2021 IEEE https://ieeexplore.ieee.org/abstract/document/9630651.
 
 This open-source algorithm is aimed for efficiently detecting the electrophysiological seizures specifically designed for Stereoelectroencephalography (SEEG).
 
